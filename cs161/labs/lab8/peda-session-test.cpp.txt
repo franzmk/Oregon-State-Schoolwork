@@ -1,0 +1,3 @@
+break /nfs/stak/users/franzmax/labs/lab8/test.cpp:14
+watch input
+
