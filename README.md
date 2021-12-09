@@ -1,3 +1,7 @@
+# About Me
+My name is Max Franz and I'm currently a Computer Science student with an applied focus in Cybersecurity at Oregon State University. I'm actively
+striving to better myself and my knowledge of computer science as I progress through the courses OSU has to offer.
+
 # Oregon State University Schoolwork
 This repo contains all of the classwork and homework for my computer science classes at Oregon State University.
 
